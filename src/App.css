@@ -1,0 +1,12 @@
+.App {
+  background-image: url('./img/background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: auto;
+  min-height: 100vh;
+  z-index: -10;
+  display: flex;
+  flex-direction: column;
+  gap: 10vh;
+  align-items: center;
+}

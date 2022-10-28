@@ -1,0 +1,44 @@
+.container {
+    width: 30vw;
+    height: 100%;
+    margin-right: 10px;
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+
+.input  {
+    width: 70%;
+    height: 60%;
+    font-size: 0.7rem;
+    background-color: transparent;
+    padding-left: 10px;
+    border-bottom: 1px solid white;
+}
+.input::placeholder{
+    color: white;
+}
+.input:focus{
+    background-color: white;
+}
+.input:focus::placeholder {
+    color: black;
+}
+
+.button {
+    width: 30%;
+    height: 60%;
+    font-size: 0.7rem;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    background-color: #52619a;
+    color: white;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: #120907;
+}
+button:active{
+    background-color: red;
+}
