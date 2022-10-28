@@ -1,7 +1,7 @@
 {
   "name": "henry_weather_app",
   "version": "1.0.0",
-  "homepage": "http://MartinAngulo.github.io/",
+  "homepage": "http://MartinAngulo.github.io/HWA",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",

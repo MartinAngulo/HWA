@@ -35,7 +35,7 @@ export default function App() {
     if(cities.find(e=>e.name.toUpperCase()===city.toUpperCase()))return alert('The City is already added');
     
     setSearch(true);
-    axios.get(`http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`)
+    axios.get(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`)
       .then((info) => {
         if (info.data.main) {
           const city = {
