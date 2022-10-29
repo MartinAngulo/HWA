@@ -1,7 +1,6 @@
 .container {
     background-color: #ffffff71;
-    width: 25vw;
-    max-width: 80vw;
+    width: 350px;
     height: auto;
     position: relative;
     display: flex;
