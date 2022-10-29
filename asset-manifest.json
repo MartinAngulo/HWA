@@ -1,22 +1,15 @@
 {
   "files": {
-    "main.css": "/HWA/static/css/main.fe6d8edf.chunk.css",
-    "main.js": "/HWA/static/js/main.c4e7c678.chunk.js",
-    "main.js.map": "/HWA/static/js/main.c4e7c678.chunk.js.map",
-    "runtime-main.js": "/HWA/static/js/runtime-main.ec358ff9.js",
-    "runtime-main.js.map": "/HWA/static/js/runtime-main.ec358ff9.js.map",
-    "static/js/2.d71d182e.chunk.js": "/HWA/static/js/2.d71d182e.chunk.js",
-    "static/js/2.d71d182e.chunk.js.map": "/HWA/static/js/2.d71d182e.chunk.js.map",
+    "main.css": "/HWA/static/css/main.4b0897d7.css",
+    "main.js": "/HWA/static/js/main.b299ae0a.js",
+    "static/media/background.jpg": "/HWA/static/media/background.ce298cef739d6c659e48.jpg",
+    "static/media/loading.gif": "/HWA/static/media/loading.3d799cd67f48011eedee.gif",
     "index.html": "/HWA/index.html",
-    "static/css/main.fe6d8edf.chunk.css.map": "/HWA/static/css/main.fe6d8edf.chunk.css.map",
-    "static/js/2.d71d182e.chunk.js.LICENSE.txt": "/HWA/static/js/2.d71d182e.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/HWA/static/media/background.ce298cef.jpg",
-    "static/media/loading.3d799cd6.gif": "/HWA/static/media/loading.3d799cd6.gif"
+    "main.4b0897d7.css.map": "/HWA/static/css/main.4b0897d7.css.map",
+    "main.b299ae0a.js.map": "/HWA/static/js/main.b299ae0a.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec358ff9.js",
-    "static/js/2.d71d182e.chunk.js",
-    "static/css/main.fe6d8edf.chunk.css",
-    "static/js/main.c4e7c678.chunk.js"
+    "static/css/main.4b0897d7.css",
+    "static/js/main.b299ae0a.js"
   ]
 }
